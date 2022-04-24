@@ -10,5 +10,5 @@ This folder contains 2 python files:
 
 This folder contains 3 files:
 * cars.csv: This contains the data for the project
-* LinearRegression: This contains the entire code to perform linear regression on the dataset
+* LinearRegression: This contains the entire code to perform basic linear regression on the dataset using the inbuilt function.
 * ResultGraph: This contains the final result of the code.
