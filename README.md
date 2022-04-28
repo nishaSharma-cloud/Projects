@@ -1,20 +1,39 @@
 # Projects
 
+## Machine Learning
+
+This folder contains several subfolders which are as mentioned below. The enhanced details for these folders can be found in the respective folders.
+* Clustering
+* Image Preprocessing
+* PCA
+* Multilabel
+* Regression
+
+## Probability Distribution
+
+This folder contains a folder as mentioned below. The enhanced details for these folders can be found in the respective folders.
+* Word Generator
+
+## Linear Regression
+
+This folder contains a folder and a file. The enhanced details for these folders can be found in the respective folders.
+* Linear Regression Cars
+* Linear Regression Line
+
+## Pyspark
+
+This folder contains three folders. The enhanced details for these folders can be found in the respective folders.
+* Basic
+* Linear Regression
+* Naive Bayes
+
 ## Python Basic
 
-This folder contains 2 python files:
-* NumbersWithPython: This file contains several basic python operations which can be used to achieve mathimatical operations like armstrong numbers, amicable numbers.
-* pandas_basic_practice: This file contains several basic data frame operations from creating a dataframe from dictionary to finding the count of a value in dataframe.
+This folder contains 2 python files. The enhanced details for these folders can be found in the respective folders.
+* NumbersWithPython
+* pandas_basic_practice
 
 ## Web Scrapping
 
-This folder contains 1 python file:
-* HappinessIndex: This file contains code to connect to wikipedia and scrape the continents with its country name and its corresponding position on the happiness index.
-
-
-## Linear Regression Cars
-
-This folder contains 3 files:
-* cars.csv: This contains the data for the project
-* LinearRegression: This contains the entire code to perform basic linear regression on the dataset using the inbuilt function.
-* ResultGraph: This contains the final result of the code.
+This folder contains 1 python file. The enhanced details for these folders can be found in the respective folders.
+* HappinessIndex
