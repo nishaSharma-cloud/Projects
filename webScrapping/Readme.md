@@ -1,2 +1,2 @@
 This folder contains 1 python file:
-* HappinessIndex: This file contains code to connect to wikipedia and scrape the continents with its country name and its corresponding position on the happiness index.
+* HappinessIndex: This file contains code to This code will scrap data from wikipedia of all the countries in the continent and plot it against the happiness of those countries.
