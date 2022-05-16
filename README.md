@@ -8,6 +8,7 @@ This folder contains several subfolders which are as mentioned below. The enhanc
 * PCA
 * Multilabel
 * Regression
+* Phising site prediction
 
 ## Probability Distribution
 
