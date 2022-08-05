@@ -7,6 +7,6 @@
   * Plot them using different symbols and colors for each cluster
 
 # Technology Stack:
-  * numpy
-  * pandas
-  * matplotlib
+  * NumPy
+  * Pandas
+  * Matplotlib
