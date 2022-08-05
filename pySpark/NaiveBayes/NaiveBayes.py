@@ -6,7 +6,7 @@ pulpColor = ['red', 'red', 'red', 'yellow', 'yellow', 'green', 'green', 'green']
 taste = ['sour', 'sour', 'bitter', 'sweet', 'bitter', 'sour', 'sweet', 'bitter']
 edible = ['yes', 'no', 'no', 'yes', 'no', 'yes', 'yes', 'no']
 
-df_new = df.withColumn("IsMammal", f.when(f.col("Type") == 1, f.lit(1)).otherwise(f.lit(0)))
+df_new = df.withColumn("IsEdible", f.when(f.col("Type") == 1, f.lit(1)).otherwise(f.lit(0)))
 df_new.show()
 print(df_new.columns)
 
