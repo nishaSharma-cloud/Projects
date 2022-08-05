@@ -1,7 +1,0 @@
-﻿AnimalName,Hair,Feathers,Eggs,Milk,Airborne,Aquatic,Predator,Toothed,Backbone,Breathes,Venomous,Fins,Legs,Tail,Domestic,Catsize,Type
-clam,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,7
-crayfish,0,0,1,0,0,1,1,0,0,0,0,0,6,0,0,0,7
-goat,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,1,1
-hamster,1,0,0,1,0,0,0,1,1,1,0,0,4,1,1,0,1
-hawk,0,1,1,0,1,0,1,0,1,1,0,0,2,1,0,0,2
-lobster,0,0,1,0,0,1,1,0,0,0,0,0,6,0,0,0,7
