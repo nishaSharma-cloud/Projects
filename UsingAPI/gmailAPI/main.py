@@ -113,7 +113,7 @@ creds = gmailCredentials('client_secret.json', ['https://www.googleapis.com/auth
                                                 'https://www.googleapis.com/auth/gmail.send']).get_credentials()
 
 # Call the send_email to send an email
-gmailCredentials.send_email('Test Email', 'This is a test email sent via the Gmail API.', 'apitestapi59@gmail.com',
+gmailCredentials.send_email('Test Email', 'This is a test email sent via the Gmail API.', 'test@gmail.com',
                             creds)
 
 # Call the search_email to look for the email
